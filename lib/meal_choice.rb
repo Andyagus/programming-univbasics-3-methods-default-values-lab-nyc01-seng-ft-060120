@@ -9,5 +9,6 @@ def meal_choice(veg1, veg2, protein = 'tofu')
 
   puts meal
   return meal
+  
 end
 
